@@ -82,6 +82,18 @@ python wallet_server.py -p 8081 -g http://127.0.0.1:5002
 - **トランザクション確認**: http://127.0.0.1:5001/transactions
 - **マイニング実行**: http://127.0.0.1:5001/mine
 
+## 📸 スクリーンショット
+
+### ウォレット画面
+![Wallet Interface](images/wallet-interface.png)
+
+ウォレットの生成、トランザクションの作成が可能です。
+
+### ブロックチェーンデータ
+![Blockchain Data](images/blockchain-data.png)
+
+ブロックチェーン全体のデータをJSON形式で確認できます。
+
 ## 🔗 API エンドポイント
 
 ### ブロックチェーンノード
